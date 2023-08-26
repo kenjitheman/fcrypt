@@ -1,4 +1,4 @@
-<h2 align="center">fcrypt - file encryption/decryption golang library</h2>
+## fcrypt - file encryption/decryption golang library
 
 ###
 
@@ -10,23 +10,22 @@
 
 ## project structure:
 
-```
-├── go.mod
+```rust
 ├── fcrypt.go
+├── go.mod
+├── LICENSE
 └── README.md
 ```
 
 ## installation
 
-- use go get:
-
-```
+```shell
 go get github.com/kenjitheman/fcrypt
 ```
 
 ## usage
 
-```
+```go
 package main
 
 import (

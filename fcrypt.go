@@ -1,4 +1,4 @@
-package core
+package fcrypt
 
 import (
 	"crypto/aes"

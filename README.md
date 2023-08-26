@@ -11,10 +11,8 @@
 ## project structure:
 
 ```
-├── core
-│   └── core.go
 ├── go.mod
-├── main.go
+├── fcrypt.go
 └── README.md
 ```
 

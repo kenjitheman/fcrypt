@@ -11,8 +11,9 @@
 ## project structure:
 
 ```
-├── go.mod
 ├── fcrypt.go
+├── go.mod
+├── LICENSE
 └── README.md
 ```
 

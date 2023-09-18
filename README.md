@@ -10,7 +10,7 @@
 
 ## project structure:
 
-```
+```rust
 ├── fcrypt.go
 ├── go.mod
 ├── LICENSE
@@ -19,13 +19,13 @@
 
 ## installation
 
-```
+```shell
 go get github.com/kenjitheman/fcrypt
 ```
 
 ## usage
 
-```
+```go
 package main
 
 import (

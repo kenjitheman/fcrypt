@@ -1,4 +1,4 @@
-<h2 align="center">fcrypt - file encryption/decryption golang library</h2>
+## fcrypt - file encryption/decryption golang library
 
 ###
 

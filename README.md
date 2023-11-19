@@ -1,4 +1,4 @@
-## fcrypt - file encryption/decryption golang library
+## fcrypt - file encryption/decryption tool
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-## project structure:
+## Project structure:
 
 ```rust
 ├── fcrypt.go
@@ -17,13 +17,13 @@
 └── README.md
 ```
 
-## installation
+## Installation
 
 ```shell
 go get github.com/kenjitheman/fcrypt
 ```
 
-## usage
+## Usage
 
 ```go
 package main
@@ -59,11 +59,11 @@ func main() {
 }
 ```
 
-## contributing
+## Contributing
 
-- pull requests are welcome, for major changes, please open an issue first to
-  discuss what you would like to change
+- Pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change.
 
-## license
+## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)

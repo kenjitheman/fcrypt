@@ -11,6 +11,8 @@
 ## Project structure:
 
 ```rust
+fcrypt
+│
 ├── fcrypt.go
 ├── go.mod
 ├── LICENSE

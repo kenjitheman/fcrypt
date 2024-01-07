@@ -1,3 +1,3 @@
-module github.com/kenjitheman/fcrypt
+module github.com/btwkenji/fcrypt
 
 go 1.20
